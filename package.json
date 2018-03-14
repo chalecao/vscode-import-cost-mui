@@ -3,7 +3,7 @@
   "displayName": "MUI Import Cost",
   "description": "Display import/require package size in the editor especially for mui module",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "haomou",
   "engines": {
     "vscode": "^1.12.0"
