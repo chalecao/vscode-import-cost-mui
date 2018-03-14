@@ -1,5 +1,11 @@
 # Changes
 
+## 1.0.0
+
+thanks to vscode-import-cost, so i make vscode-import-cost-mui version 1.0.0
+
+#vscode-import-cost
+
 ## 2.5.1
 
 Fix issue with imports that don't have semicolons in typescript
