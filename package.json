@@ -3,7 +3,7 @@
   "displayName": "MUI Import Cost",
   "description": "Display import/require package size in the editor especially for mui module",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "publisher": "haomou",
   "engines": {
     "vscode": "^1.12.0"
@@ -97,8 +97,9 @@
   "devDependencies": {
     "@types/mocha": "^2.2.32",
     "@types/node": "^6.0.40",
+    "ajv": "^6.2.1",
     "husky": "^0.14.3",
-    "import-cost-mui": "^1.0.17",
+    "import-cost": "^1.3.1",
     "mocha": "^2.3.3",
     "tslint": "^5.5.0",
     "tslint-config-wix": "^1.0.25",
@@ -107,6 +108,7 @@
   },
   "dependencies": {
     "filesize": "^3.5.10",
+    "import-cost-mui": "^1.0.21",
     "pkg-dir": "^2.0.0",
     "worker-farm": "^1.6.0"
   },
